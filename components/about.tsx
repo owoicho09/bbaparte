@@ -39,7 +39,7 @@ export function About() {
             }`}
           >
             <Image
-              src="/about.jpg"
+              src="/b&b1.JPG"
               alt="B&B Apartments Bedroom"
               fill
               className="object-cover"

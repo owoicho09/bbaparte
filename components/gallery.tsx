@@ -5,11 +5,11 @@ import { useEffect, useRef, useState } from 'react';
 import { ZoomIn } from 'lucide-react';
 
 const galleryItems = [
-  { src: '/gallery-1.jpg', label: 'Living Room', aspect: 'aspect-square' },
+  { src: '/hero (2).JPG', label: 'Living Room', aspect: 'aspect-square' },
   { src: '/b&b1.JPG', label: 'Master Bedroom', aspect: 'aspect-[3/4]' },
   { src: '/gallery-3.jpg', label: 'Kitchen', aspect: 'aspect-[4/3]' },
   { src: '/gallery-4.jpg', label: 'Bathroom', aspect: 'aspect-square' },
-  { src: '/gallery-5.jpg', label: 'Workspace', aspect: 'aspect-[4/3]' },
+  { src: '/b&b7.JPG', label: 'Interior Design', aspect: 'aspect-[4/3]' },
   { src: '/b&b2.JPG', label: 'Exterior', aspect: 'aspect-[3/4]' },
 ];
 

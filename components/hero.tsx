@@ -15,7 +15,7 @@ export function Hero() {
           src="/hero (2).JPG"
           alt="B&B Apartments Luxury Interior"
           fill
-          className="object-cover"
+  className="object-cover scale-90"
           priority
         />
         {/* Dark Gradient Overlay */}
